@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"pregroup01","l":"Fraction"},{"p":"prog2.midgroup01","l":"FractionTester"},{"p":"prog2.midgroup01","l":"MixedFraction"},{"p":"fractionexception","l":"MixedFractionException"}];updateSearchResults();
