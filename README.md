@@ -1,6 +1,6 @@
 ## A program in Java that lets users perform arithmetic operations with integers, fractions, and decimal numbers.
 
-Our calculator implemented The <strong>Model-View-Controller (MVC)</strong> design pattern. It is a software architecture pattern that separates an
+This program implemented The <strong>Model-View-Controller (MVC)</strong> design pattern. It is a software architecture pattern that separates an
 application's data model, user interface, and control logic into three separate components, each with its own defined responsibilities:
 
 - <em>Model:</em> The model represents the application's data and business logic, and provides an interface for interacting with and manipulating that data.
